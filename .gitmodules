@@ -1,4 +1,4 @@
 [submodule "deploy"]
 	path = deploy
-	url = https://github.com/yandod/engineyard-drupal-deploy.git
+	url = git://github.com/yandod/engineyard-drupal-deploy.git
 
